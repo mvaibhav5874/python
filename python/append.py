@@ -1,0 +1,15 @@
+a=[2,3,5]
+b=[2,4,6,8]
+a.append(5)
+a.extend(b)
+print(len(a))
+print(a.count(2))
+print(a.index(8))
+a.sort(reverse=True)
+print(a)
+a.sort(reverse=False)
+print(a)
+a.pop(2)
+print(a)
+b = a.copy()
+print(b)
