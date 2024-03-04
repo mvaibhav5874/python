@@ -31,3 +31,7 @@ del t
 string_tuple="vaibhav","surya"
 contadinate_both=string_tuple[0][0]+string_tuple[1][0]
 print(contadinate_both)
+
+string_tuple="vaibhav"
+contadinate_both=string_tuple[0]+string_tuple[1]
+print(contadinate_both)
