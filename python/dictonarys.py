@@ -1,6 +1,6 @@
 from typing import Dict
 
-Dict ={'vaibhav':'0097', 'dileep':'0009'}
+Dict ={'vaibhav':'0097', 'dileep':'70009'}
 print(Dict['vaibhav'])
 print(Dict['dileep'])
 for x in Dict:
