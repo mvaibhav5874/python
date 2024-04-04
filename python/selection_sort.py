@@ -7,5 +7,6 @@ def selection_sort(array,size):
             if array[j]<array[min_index]:
                 min_index= j
                 array[i],array[min_index]=array[min_index],array[i]
+
 selection_sort(array,size)
 print("the sorted array using selection sort is:",array)
