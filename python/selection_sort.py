@@ -1,5 +1,6 @@
 array = [5,45,9,82,4,22]
 size = len(array)
+
 def selection_sort(array,size):
     for i in range(size):
         min_index = i
