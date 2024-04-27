@@ -6,7 +6,7 @@ a = (1,)
 print(a)
 print(type(a))
 
-merge= a+t
+merge = a+t
 print(merge)
 print(type(merge))
 
