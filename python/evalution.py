@@ -1,4 +1,4 @@
-allowed_operators = "+ - * / % == and or "
+allowed_operators: str = "+ - * / % == and or "
 
 def safe_eval(expr):
 
