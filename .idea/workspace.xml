@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3480424a-9bf8-49a1-9d9c-a04c34fa57c1" name="Changes" comment="organisation commit">
+      <change afterPath="$PROJECT_DIR$/DSA/bubble_sort.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,34 +41,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python.ARRAY_COUNT.executor&quot;: &quot;Run&quot;,
-    &quot;Python.append.executor&quot;: &quot;Run&quot;,
-    &quot;Python.eqtrangle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.evalution.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exp3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exp4(astrick).executor&quot;: &quot;Run&quot;,
-    &quot;Python.find_missing.executor&quot;: &quot;Run&quot;,
-    &quot;Python.forloop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.guess the num.executor&quot;: &quot;Run&quot;,
-    &quot;Python.min_arr.executor&quot;: &quot;Run&quot;,
-    &quot;Python.multithreding.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/lenovo/Desktop/DSA&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.ARRAY_COUNT.executor": "Run",
+    "Python.append.executor": "Run",
+    "Python.bubble_sort.executor": "Run",
+    "Python.eqtrangle.executor": "Run",
+    "Python.evalution.executor": "Run",
+    "Python.exp3.executor": "Run",
+    "Python.exp4(astrick).executor": "Run",
+    "Python.find_missing.executor": "Run",
+    "Python.forloop.executor": "Run",
+    "Python.guess the num.executor": "Run",
+    "Python.index_of_subarr_sum.executor": "Run",
+    "Python.min_arr.executor": "Run",
+    "Python.multithreding.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/lenovo/Desktop/DSA",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Python.append">
+}]]></component>
+  <component name="RunManager">
     <configuration name="append" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
@@ -149,6 +152,11 @@
       <workItem from="1734063183932" duration="3593000" />
       <workItem from="1734331259471" duration="61000" />
       <workItem from="1734334594309" duration="2000" />
+      <workItem from="1734366243204" duration="259000" />
+      <workItem from="1734366576343" duration="405000" />
+      <workItem from="1734366993597" duration="598000" />
+      <workItem from="1734368671211" duration="624000" />
+      <workItem from="1734372863251" duration="354000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -246,7 +254,23 @@
       <option name="project" value="LOCAL" />
       <updated>1734065404819</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="organisation commit">
+      <option name="closed" value="true" />
+      <created>1734366372491</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1734366372491</updated>
+    </task>
+    <task id="LOCAL-00014" summary="organisation commit">
+      <option name="closed" value="true" />
+      <created>1734366491123</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1734366491123</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,15 +294,16 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/python$eqtrangle.coverage" NAME="eqtrangle Coverage Results" MODIFIED="1707111157140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
     <SUITE FILE_PATH="coverage/python$forloop.coverage" NAME="forloop Coverage Results" MODIFIED="1708319802040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
     <SUITE FILE_PATH="coverage/python$exp3.coverage" NAME="exp3 Coverage Results" MODIFIED="1706764376735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
-    <SUITE FILE_PATH="coverage/python$guess_the_num.coverage" NAME="guess the num Coverage Results" MODIFIED="1706509007583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$exp4_astrick_.coverage" NAME="exp4(astrick) Coverage Results" MODIFIED="1706764176897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python$multithreding.coverage" NAME="multithreding Coverage Results" MODIFIED="1708323353196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
     <SUITE FILE_PATH="coverage/python$evalution.coverage" NAME="evalution Coverage Results" MODIFIED="1707369084063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
-    <SUITE FILE_PATH="coverage/python$min_arr.coverage" NAME="min_arr Coverage Results" MODIFIED="1734063884696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA" />
+    <SUITE FILE_PATH="coverage/python$index_of_subarr_sum.coverage" NAME="index_of_subarr_sum Coverage Results" MODIFIED="1734366460224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA" />
     <SUITE FILE_PATH="coverage/python$append.coverage" NAME="append Coverage Results" MODIFIED="1708322272777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
+    <SUITE FILE_PATH="coverage/python$eqtrangle.coverage" NAME="eqtrangle Coverage Results" MODIFIED="1707111157140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
+    <SUITE FILE_PATH="coverage/python$guess_the_num.coverage" NAME="guess the num Coverage Results" MODIFIED="1706509007583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$multithreding.coverage" NAME="multithreding Coverage Results" MODIFIED="1708323353196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
+    <SUITE FILE_PATH="coverage/python$min_arr.coverage" NAME="min_arr Coverage Results" MODIFIED="1734063884696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA" />
     <SUITE FILE_PATH="coverage/python$find_missing.coverage" NAME="find_missing Coverage Results" MODIFIED="1734065327295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA" />
     <SUITE FILE_PATH="coverage/python$ARRAY_COUNT.coverage" NAME="ARRAY_COUNT Coverage Results" MODIFIED="1733981014970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA" />
   </component>
