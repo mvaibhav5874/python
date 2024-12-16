@@ -28,3 +28,7 @@ class Solution:
                 i += 1
 
         return [-1]
+
+arr =[1,3,7,9]
+target = 10
+print(Solution().subArraySum(arr, target))
