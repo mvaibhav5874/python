@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3480424a-9bf8-49a1-9d9c-a04c34fa57c1" name="Changes" comment="organisation commit">
-      <change beforePath="$PROJECT_DIR$/DSA/liner_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/liner_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/count_pairs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +55,7 @@
     &quot;Python.forloop.executor&quot;: &quot;Run&quot;,
     &quot;Python.guess the num.executor&quot;: &quot;Run&quot;,
     &quot;Python.index_of_subarr_sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.liner_search.executor&quot;: &quot;Run&quot;,
     &quot;Python.min_arr.executor&quot;: &quot;Run&quot;,
     &quot;Python.multithreding.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
@@ -69,7 +71,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.append">
     <configuration name="append" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
@@ -156,6 +158,8 @@
       <workItem from="1734366993597" duration="598000" />
       <workItem from="1734368671211" duration="624000" />
       <workItem from="1734372863251" duration="726000" />
+      <workItem from="1734373603746" duration="816000" />
+      <workItem from="1735294355146" duration="44000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -277,7 +281,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734373296158</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="organisation commit">
+      <option name="closed" value="true" />
+      <created>1734376209883</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1734376209883</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -302,6 +314,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python$forloop.coverage" NAME="forloop Coverage Results" MODIFIED="1708319802040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
+    <SUITE FILE_PATH="coverage/python$liner_search.coverage" NAME="liner_search Coverage Results" MODIFIED="1734376199940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA" />
     <SUITE FILE_PATH="coverage/python$exp3.coverage" NAME="exp3 Coverage Results" MODIFIED="1706764376735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
     <SUITE FILE_PATH="coverage/python$exp4_astrick_.coverage" NAME="exp4(astrick) Coverage Results" MODIFIED="1706764176897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$evalution.coverage" NAME="evalution Coverage Results" MODIFIED="1707369084063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
