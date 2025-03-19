@@ -2,14 +2,6 @@ import pyautogui
 import time
 
 def type_and_send_message(message, delay=1, repetitions=1):
-    """
-    Types and sends a message multiple times with a delay between each send.
-
-    Args:
-        message (str): The message to send.
-        delay (int, float): The delay in seconds between each message. Defaults to 1.
-        repetitions (int): The number of times to send the message. Defaults to 1.
-    """
     try:
         for _ in range(repetitions):
             pyautogui.typewrite(message)
