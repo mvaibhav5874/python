@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3480424a-9bf8-49a1-9d9c-a04c34fa57c1" name="Changes" comment="organisation commit">
-      <change afterPath="$PROJECT_DIR$/DSA/find_triplets.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +84,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.append">
     <configuration name="append" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
@@ -174,7 +173,8 @@
       <workItem from="1734372863251" duration="726000" />
       <workItem from="1734373603746" duration="816000" />
       <workItem from="1735294355146" duration="127000" />
-      <workItem from="1735394335843" duration="133000" />
+      <workItem from="1735394335843" duration="156000" />
+      <workItem from="1742367780128" duration="387000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -312,7 +312,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735294412161</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="organisation commit">
+      <option name="closed" value="true" />
+      <created>1735394479132</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1735394479132</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
