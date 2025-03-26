@@ -2,7 +2,6 @@ from flask import Flask, render_template, request, redirect, url_for
 
 app = Flask(__name__)
 
-# Mock data for products and users
 products = [
     {"id": 1, "name": "Laptop", "description": "A powerful laptop", "price": 999},
     {"id": 2, "name": "Headphones", "description": "Noise-cancelling headphones", "price": 199}
