@@ -1,4 +1,4 @@
-
+#this code is for count the arry and find element
 class Solution:
     def countFreq(self, arr, target):
         count = 0
